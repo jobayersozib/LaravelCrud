@@ -1,7 +1,0 @@
-Install process
-
-1.download and unzip project folder
-2.navigate to project folder
-3. run composer update --no-scripts
-4.create db mgassignment
-5.import sql file added to project folder
